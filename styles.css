@@ -14,11 +14,15 @@
 .logo_name{
     font-size: 40px;
 }
+div.media-icons{
+	display:flex;
+	flex-direction:row;
+}
 .media-icons i{
     margin-top: 1.8rem;
     padding:0 0.3rem;
 }
-.link-boxes{
+div.link-boxes{
     display: flex;
     flex-direction:row;
     justify-content: space-around;
