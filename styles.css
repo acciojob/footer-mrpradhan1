@@ -14,7 +14,7 @@
 .logo_name{
     font-size: 40px;
 }
-div.media-icons{
+.media-icons{
 	display:flex;
 	flex-direction:row;
 }
@@ -22,7 +22,7 @@ div.media-icons{
     margin-top: 1.8rem;
     padding:0 0.3rem;
 }
-div.link-boxes{
+.link-boxes{
     display: flex;
     flex-direction:row;
     justify-content: space-around;
